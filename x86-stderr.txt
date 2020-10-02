@@ -1,0 +1,14 @@
+argv = ['libubt'; '--vfs-kind'; 'guest-first'; '--path-prefix'; '/storage/emulated/0/Android/data/com.eltechs.es/files/image'; '--vpaths-list'; '/storage/emulated/0/Android/data/com.eltechs.es/files/image/.exagear/vpaths-list'; '-f'; '/usr/bin/wine'; '--fork-controller'; 'ua:.exagear-tracker-app9'; '--ipc-emul-server'; 'ua:com.eltechs.es'; '--tmp-dir'; '/storage/emulated/0/Android/data/com.eltechs.es/files/image/.exagear/tmp'; '--vfs-hacks=pels,ansep,tlsasws,'; '--file-name-replacements=/home/xdroid/.wine/dosdevices/c_,/home/xdroid/.wine/drive_c,/home/xdroid/.wine/dosdevices/d_,/storage/emulated/0/ExaGear,/home/xdroid/.wine/dosdevices/e_,/storage/emulated/0/ExaGear,'; '--socket-path-suffix'; 'es'; '--ubt-executable'; '/data/app/com.eltechs.es-XWdS_AqFRjTFLsDeca44Cg==/lib/arm/libubt.so'; '--ubt-loader'; '/data/app/com.eltechs.es-XWdS_AqFRjTFLsDeca44Cg==/lib/arm/libelfloader.so'; '--'; 'wine'; '/home/xdroid/.wine/dosdevices/d_/صلاح الدين/اضغط هنا لتلعب.exe'; ]
+envp = ['HOME=/home/xdroid/'; 'LC_ALL=C'; 'DISPLAY=:9'; 'AXS_SOUND_SERVER_PORT=/tmp/.sound/AS9'; 'AXS_DSOUND_SERVER_PORT=/tmp/.sound/DS9'; 'EXADROID_DISABLE_SHORT_NAMES=y'; ]
+cwd = '/storage/emulated/0/ExaGear/صلاح الدين'
+Xlib:  extension "SHAPE" missing on display ":9".
+err:shell:SHGetFolderPathAndSubDirW Failed to create directory L"C:\\users\\Public\\\0420\0430\0431\043e\0447\0438\0439 \0441\0442\043e\043b".
+err:explorer:initialize_launchers Could not get public desktop folder
+Xlib:  extension "SHAPE" missing on display ":9".
+Xlib:  extension "SHAPE" missing on display ":9".
+Xlib:  extension "SHAPE" missing on display ":9".
+Xlib:  extension "SHAPE" missing on display ":9".
+fixme:win:EnumDisplayDevicesW ((null),0,0x7f21f708,0x00000000), stub!
+fixme:win:EnumDisplayDevicesW ((null),0,0x7f21f508,0x00000000), stub!
+fixme:d3d_surface:surface_cpu_blt Filter WINED3D_TEXF_LINEAR not supported in software blit.
+fixme:win:EnumDisplayDevicesW ((null),0,0x7f21f508,0x00000000), stub!
